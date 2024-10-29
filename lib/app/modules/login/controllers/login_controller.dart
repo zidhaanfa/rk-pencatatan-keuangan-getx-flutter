@@ -34,7 +34,7 @@ class LoginController extends GetxController {
   @override
   void onInit() {
     emailController.text = 'zidanfath@recehkoding.com';
-    passwordController.text = 'Derina@6661FA';
+    passwordController.text = '';
     super.onInit();
   }
 
